@@ -5,5 +5,5 @@ Project Description
 1.0.0
 
 ### Licence
-Copyright &copy; 2024 DEP12. All rights reserved .<br>
-This project is licensed under the MIT license
+Copyright &copy; 2024 DEP12. All Rights Reserved .<br>
+This project is licensed under the [MIT](LICENCE.txt) license

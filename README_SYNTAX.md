@@ -16,8 +16,8 @@ Lorem Ipsum Lorem Ipsum
 Lorem Ipsum Lorem Ipsum<br>
 Lorem Ipsum Lorem Ipsum
 
-![Alternative Text](assest/sample.jpg)
-<img src="assest/sample" width="100>
+![Alternative Text](asset/sample.jpg)
+<img src="asset/sample.jpg" width="100"> // not recommended way
 
 1. First
 2. Second
